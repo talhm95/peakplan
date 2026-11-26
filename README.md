@@ -2,6 +2,10 @@
 
 Climbing-analysis demo: pose estimation → center of mass / base of support / movement metrics → annotated MP4 clips and a Hebrew (RTL) HTML dashboard.
 
+## Live demo
+
+**https://talhm95.github.io/peakplan/** (served by GitHub Pages from `main`; `index.html` redirects to `climbing_demo.html`)
+
 ## Contents
 
 | File | Description |
